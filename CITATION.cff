@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: cross-tool-statistical-verification
+abstract: >-
+  A six-phase command-line harness that verifies a statistical analysis is
+  internally consistent, reproduces identically when re-run, and agrees with an
+  independent implementation in a second language (Python and R). It produces a
+  verification log, a cross-tool comparison table, and a methodology statement
+  suitable for a manuscript.
+type: software
+authors:
+  - family-names: Crocco
+    given-names: Oliver S.
+    orcid: "https://orcid.org/0000-0001-8472-1224"
+license: MIT
+repository-code: "https://github.com/olivercrocco/cross-tool-statistical-verification"
+url: "https://github.com/olivercrocco/cross-tool-statistical-verification"
+version: "0.1.0"
+date-released: "2026-05-29"
+keywords:
+  - reproducibility
+  - computational reproducibility
+  - statistical analysis
+  - verification
+  - cross-tool triangulation
+  - Python
+  - R
+  - open science
+  - research software
